@@ -1,4 +1,5 @@
 .git/*
 env/
 venv/
-flask_env/
+flask_env
+.vscode
