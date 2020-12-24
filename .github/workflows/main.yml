@@ -42,4 +42,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: cyber_das/flask_image:latest
+          tags: cyberdas/flask_image:latest
