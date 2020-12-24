@@ -1,4 +1,3 @@
-.git/*
 env/
 venv/
 
@@ -10,9 +9,7 @@ __pycache__/
 .AppleDouble
 .LSOverride
 .vscode
-
-*.sublime-project
-.flask_env
+flask_env
 
 media/
 sent_emails/
