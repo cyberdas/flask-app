@@ -23,4 +23,4 @@ jobs:
       run: flake8 . --ignore=E501,W503 --exclude=tests
 
     - name: Test with pytest
-      run: pytest pytest.py 
+      run: pytest test.py 
